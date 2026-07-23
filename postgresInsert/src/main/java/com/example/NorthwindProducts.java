@@ -18,7 +18,7 @@ import java.util.List;
  *   PGPORT     (default: 5432)
  *   PGDATABASE (default: northwind)
  *   PGUSER     (default: postgres)
- *   PGPASSWORD (default: Abcd1234)
+ *   PGPASSWORD (default: password)
  */
 public class NorthwindProducts {
 
